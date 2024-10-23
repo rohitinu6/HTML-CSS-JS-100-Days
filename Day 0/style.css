@@ -1,0 +1,12 @@
+*{
+    box-sizing: ;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    align-items: center;
+    justify-content:center;
+    margin-top: 300px;
+    margin-left: 700px;
+    display: flexbox;
+}
